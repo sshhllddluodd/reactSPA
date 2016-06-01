@@ -13,7 +13,7 @@ export default class EditPage extends React.Component {
       return (
         <div>
             <Title titleName="编辑广告系列"/>
-            <i className="fa fa-cog fa-spin fa-3x fa-fw"></i>          
+            <i className="fa fa-rocket fa-spin fa-3x fa-fw"></i>          
         </div>
       );
     }
